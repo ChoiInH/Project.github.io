@@ -10,7 +10,7 @@
 <script src="https://choiinh.github.io/Project.github.io/"></script>
 
 <section>
-<form><!--셀렉창-->
+<form>
   <select name="language" >
     <option value="none">=== 선택 ===</option>
     <option value="korean">한국어</option>
@@ -21,7 +21,7 @@
 </form>
 </section>
 
-<section><!--검색창-->
+<section>
   <form action="https://search.naver.com/search.naver">
     <div class="search">
      <input type="text" name="query" value="">
@@ -32,7 +32,7 @@
 <button type="button" id="up">"UP"</button>  
 <button type="button" id="down">"DOWN"</button>
   
-<select id="test" multiple style="width:100px;height:150px;"><!--버튼창-->
+<select id="test" multiple style="width:100px;height:150px;">
   <option value="1">1111</option>
   <option value="2">2222</option>
   <option value="3">3333</option>

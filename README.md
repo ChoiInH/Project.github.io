@@ -1,6 +1,7 @@
 # Project.github.io
 연습용
 
+https://choiinh.github.io/Project.github.io/
 <form action="#">
   <label for="lang">Language</label>
   <select name="languages" id="lang">

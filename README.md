@@ -8,11 +8,9 @@
     <script src="https://choiinh.github.io/Project.github.io/">
     </script>
     <from>
-      <input type='date' id='currentDate'/>
+      <input type='date'>
     </from>
-    <script>
-      document.getElementById('currentDate').value = new Date().toISOString().substring(0, 10);;
-    </script>
+    
   </body>
     
 </html>

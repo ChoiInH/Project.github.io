@@ -1,18 +1,56 @@
 # Project.github.io
 연습용
 
-https://choiinh.github.io/Project.github.io/
-<form action="#">
-  <label for="lang">Language</label>
-  <select name="languages" id="lang">
-    <option value="javascript">JavaScript</option>
-    <option value="php">PHP</option>
-    <option value="java">Java</option>
-    <option value="golang">Golang</option>
-    <option value="python">Python</option>
-    <option value="c#">C#</option>
-    <option value="C++">C++</option>
-    <option value="erlang">Erlang</option>
-  </select>
-  <input type="submit" value="Submit" />
-</form>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>SelectBox Multiple Option Sort</title>
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="https://code.jquery.com/jquery.min.js"></script>
+
+<p>셀렉트박스의 옵션을 여러개 선택하여 위 아래로 한꺼번에 이동할 수 있다.</p>
+  
+<button type="button" id="up">위</button>  
+<button type="button" id="down">아래</button>
+  
+<select id="test" multiple style="width:300px;height:400px;">
+  <option value="1">1111</option>
+  <option value="2">2222</option>
+  <option value="3">3333</option>
+  <option value="4">4444</option>
+  <option value="4">12</option>
+   <option value="4">54646</option>
+   <option value="4">32</option>
+   <option value="4">45</option>
+</select>
+  
+<script>
+  
+
+  var count = $("#test option").length;
+  
+  $("#down").click(function() {
+    
+    $($("#test option:selected").get().reverse()).each(function(i){
+      var index = $(this).index() + 1;
+      console.log(count + ":" + index);
+      if (index < (count - i)) $("#test option:eq(" + index + ")").after(this);
+    });
+  });
+  
+  $("#up").click(function() {
+
+    $("#test option:selected").each(function(i){
+      var index = $(this).index() - 1;
+      console.log(count + ":" + index);
+      if (index >= i) $("#test option:eq(" + index + ")").before(this);
+    });
+  });
+</script>
+  
+</body>
+</html>

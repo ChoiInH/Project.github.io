@@ -19,6 +19,14 @@
   </select>
 </form>
 
+<section>
+  <form action="https://search.naver.com/search.naver">
+    <div class="search">
+     <input type="text" name="query" value="">
+     <button type="submit">검색</button></div>
+  </form>
+</section>
+
 <button type="button" id="up">"UP"</button>  
 <button type="button" id="down">"DOWN"</button>
   

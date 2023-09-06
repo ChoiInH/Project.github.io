@@ -1,4 +1,3 @@
-# Project.github.io
 <"연습">
 <html>
 <head>
@@ -9,7 +8,17 @@
 <body>
 <script src="https://choiinh.github.io/Project.github.io/"></script>
 <script src="https://choiinh.github.io/Project.github.io/"></script>
-  
+
+<form>
+  <select name="language" >
+    <option value="none">=== 선택 ===</option>
+    <option value="korean">한국어</option>
+    <option value="english">영어</option>
+    <option value="chinese">중국어</option>
+    <option value="spanish">스페인어</option>
+  </select>
+</form>
+
 <button type="button" id="up">"UP"</button>  
 <button type="button" id="down">"DOWN"</button>
   

@@ -7,17 +7,19 @@
   <body>
     <script src="https://choiinh.github.io/Project.github.io/">
     </script>
+    
     <from>
+      
       <input type='date'>
-    </from>
-    <form>
-      <select name="Merchant" >
-        <option value="none">=== 선택 ===</option>
-        <option value="C0">CAT</option>
-        <option value="07">고속</option>
-        <option value="11">시외</option>
-        <option value="15">GS</option>
-      </select>
+      
+    <select name="Merchant" >
+      <option value="none">=== 선택 ===</option>
+      <option value="C0">CAT</option>
+      <option value="07">고속</option>
+      <option value="11">시외</option>
+      <option value="15">GS</option>
+   </select>
+   
    </form>
   </body>
     

@@ -7,7 +7,6 @@
   <title>SelectBox Multiple Option Sort</title>
 </head>
 <body>
-  https://choiinh.github.io/Project.github.io/
 <script src="https://choiinh.github.io/Project.github.io/"></script>
 <script src="https://choiinh.github.io/Project.github.io/"></script>
   

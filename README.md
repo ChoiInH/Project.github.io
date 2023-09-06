@@ -19,7 +19,6 @@
     <option value="15">GS</option>
     </select>
    
-   </form>
+    </form>
   </body>
-    
 </html>

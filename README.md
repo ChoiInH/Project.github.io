@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <"연습">
 <html>
 <head>

@@ -9,7 +9,7 @@
     </script>
     
     <from>
-    <input type='datetime-local'>
+    <input type='date-local'>
     
     <select name="Merchant" >
     <option value="none">=== 선택 ===</option>

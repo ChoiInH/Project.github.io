@@ -9,8 +9,9 @@
   <title>SelectBox Multiple Option Sort</title>
 </head>
 <body>
-<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
-<script src="https://code.jquery.com/jquery.min.js"></script>
+  https://choiinh.github.io/Project.github.io/
+<script src="https://choiinh.github.io/Project.github.io/"></script>
+<script src="https://choiinh.github.io/Project.github.io/"></script>
 
 <p>셀렉트박스의 옵션을 여러개 선택하여 위 아래로 한꺼번에 이동할 수 있다.</p>
   

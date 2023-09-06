@@ -22,7 +22,7 @@
 <button type="button" id="up">"UP"</button>  
 <button type="button" id="down">"DOWN"</button>
   
-<select id="test" multiple style="width:300px;height:400px;">
+<select id="test" multiple style="width:100px;height:150px;">
   <option value="1">1111</option>
   <option value="2">2222</option>
   <option value="3">3333</option>

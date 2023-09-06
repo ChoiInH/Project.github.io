@@ -18,9 +18,6 @@
     <option value="11">시외</option>
     <option value="15">GS</option>
     </select>
-    
-    
-   
     </form>
   </body>
 </html>

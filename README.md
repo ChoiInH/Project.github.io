@@ -9,7 +9,6 @@
     <script src="https://choiinh.github.io/Project.github.io/"></script>
     <from>
       <input type = "date">
-      <input type = "datetime-local">
     </from>
   </body>
     

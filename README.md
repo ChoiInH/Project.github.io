@@ -21,10 +21,6 @@
   <option value="2">2222</option>
   <option value="3">3333</option>
   <option value="4">4444</option>
-  <option value="4">12</option>
-   <option value="4">54646</option>
-   <option value="4">32</option>
-   <option value="4">45</option>
 </select>
 
   

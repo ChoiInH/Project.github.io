@@ -13,8 +13,8 @@
 <script src="https://choiinh.github.io/Project.github.io/"></script>
 <script src="https://choiinh.github.io/Project.github.io/"></script>
   
-<button type="button" id="up">UP</button>  
-<button type="button" id="down">DOWN</button>
+<button type="button" id="up">"UP"</button>  
+<button type="button" id="down">"DOWN"</button>
   
 <select id="test" multiple style="width:300px;height:400px;">
   <option value="1">1111</option>

@@ -1,7 +1,5 @@
 # Project.github.io
-연습용
-
-<!DOCTYPE html>
+<!"연습">
 <html>
 <head>
   <meta charset="utf-8">

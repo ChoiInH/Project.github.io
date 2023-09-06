@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Project EX</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Project EX</title>
 </head>
 <body>
 <script src="https://choiinh.github.io/Project.github.io/">

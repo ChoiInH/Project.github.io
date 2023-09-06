@@ -9,16 +9,15 @@
     </script>
     
     <from>
-      
-      <input type='date'>
-      
+    <input type='date'>
+    
     <select name="Merchant" >
-      <option value="none">=== 선택 ===</option>
-      <option value="C0">CAT</option>
-      <option value="07">고속</option>
-      <option value="11">시외</option>
-      <option value="15">GS</option>
-   </select>
+    <option value="none">=== 선택 ===</option>
+    <option value="C0">CAT</option>
+    <option value="07">고속</option>
+    <option value="11">시외</option>
+    <option value="15">GS</option>
+    </select>
    
    </form>
   </body>

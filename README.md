@@ -5,7 +5,8 @@
     <title>SelectBox Multiple Option Sort</title>
   </head>
   <body>
-    <script src="https://choiinh.github.io/Project.github.io/"></script>
+    <script src="https://choiinh.github.io/Project.github.io/">
+    </script>
     <from>
       <input type='date' id='currentDate'/>
     </from>
